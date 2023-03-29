@@ -1,0 +1,47 @@
+{
+  "description" : "YG-01-0002 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Natalie"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "ETH stone"
+    },
+    {
+      "value" : "White",
+      "trait_type" : "crest"
+    },
+    {
+      "value" : "Sharp eyes",
+      "trait_type" : "mouth shape"
+    },
+    {
+      "trait_type" : "hair",
+      "value" : "Smile"
+    },
+    {
+      "value" : "Long hair",
+      "trait_type" : "hair color"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Yellow green"
+    },
+    {
+      "value" : "Yellow",
+      "trait_type" : "item"
+    },
+    {
+      "trait_type" : "cloth",
+      "value" : "Game"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Flower"
+    }
+  ],
+  "name" : "YG-01-0002",
+  "image" : "yay_genesis_0002.png"
+}

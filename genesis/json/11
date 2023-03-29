@@ -1,0 +1,43 @@
+{
+  "image" : "yay_genesis_0011.png",
+  "name" : "YG-01-0011",
+  "description" : "YG-01-0011 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Aubrey"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "Prayer"
+    },
+    {
+      "value" : "Black",
+      "trait_type" : "crest"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Basis eyes"
+    },
+    {
+      "value" : "Serious",
+      "trait_type" : "hair"
+    },
+    {
+      "value" : "Medium hair",
+      "trait_type" : "hair color"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Light blue"
+    },
+    {
+      "value" : "Orange",
+      "trait_type" : "item"
+    },
+    {
+      "value" : "\"Aristocrat\"",
+      "trait_type" : "background"
+    }
+  ]
+}

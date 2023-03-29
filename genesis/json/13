@@ -1,0 +1,51 @@
+{
+  "image" : "yay_genesis_0013.png",
+  "name" : "YG-01-0013",
+  "description" : "YG-01-0013 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Henry"
+    },
+    {
+      "value" : "Prayer",
+      "trait_type" : "skin"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "Black"
+    },
+    {
+      "trait_type" : "eye shape",
+      "value" : "Moon light blue"
+    },
+    {
+      "value" : "Sharp eyes",
+      "trait_type" : "mouth shape"
+    },
+    {
+      "trait_type" : "hair",
+      "value" : "Open"
+    },
+    {
+      "value" : "Carl",
+      "trait_type" : "hair color"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Red"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Red"
+    },
+    {
+      "value" : "Angel",
+      "trait_type" : "cloth"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Leather"
+    }
+  ]
+}

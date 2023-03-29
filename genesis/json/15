@@ -1,0 +1,39 @@
+{
+  "name" : "YG-01-0015",
+  "image" : "yay_genesis_0015.png",
+  "attributes" : [
+    {
+      "value" : "Violet",
+      "trait_type" : "description"
+    },
+    {
+      "value" : "ETH stone",
+      "trait_type" : "skin"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "White"
+    },
+    {
+      "trait_type" : "hair",
+      "value" : "Serious"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Carl"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Orange"
+    },
+    {
+      "trait_type" : "cloth",
+      "value" : "Metaverse"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "\"Aristocrat\""
+    }
+  ],
+  "description" : "YG-01-0015 description"
+}

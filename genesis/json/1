@@ -1,0 +1,47 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Ryan"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "ETH stone"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "Black"
+    },
+    {
+      "value" : "Feather crest",
+      "trait_type" : "eye shape"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Round eyes"
+    },
+    {
+      "value" : "Smile",
+      "trait_type" : "hair"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Medium hair"
+    },
+    {
+      "value" : "Blue",
+      "trait_type" : "eye color"
+    },
+    {
+      "value" : "Purple",
+      "trait_type" : "item"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Aloha"
+    }
+  ],
+  "name" : "YG-01-0001",
+  "image" : "yay_genesis_0001.png",
+  "description" : "YG-01-0001 description"
+}

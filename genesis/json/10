@@ -1,0 +1,43 @@
+{
+  "description" : "YG-01-0010 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Samuel"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "Prayer"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "White"
+    },
+    {
+      "trait_type" : "eye shape",
+      "value" : "Sun orange"
+    },
+    {
+      "value" : "Open",
+      "trait_type" : "hair"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Center short"
+    },
+    {
+      "value" : "Purple",
+      "trait_type" : "eye color"
+    },
+    {
+      "value" : "Metaverse",
+      "trait_type" : "cloth"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Flower"
+    }
+  ],
+  "name" : "YG-01-0010",
+  "image" : "yay_genesis_0010.png"
+}

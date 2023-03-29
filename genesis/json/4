@@ -1,0 +1,43 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Gabriel"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "ETH stone"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "Black"
+    },
+    {
+      "value" : "Basis eyes",
+      "trait_type" : "mouth shape"
+    },
+    {
+      "trait_type" : "hair",
+      "value" : "Open"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Medium hair"
+    },
+    {
+      "value" : "Black",
+      "trait_type" : "eye color"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Green"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Knight"
+    }
+  ],
+  "description" : "YG-01-0004 description",
+  "image" : "yay_genesis_0004.png",
+  "name" : "YG-01-0004"
+}

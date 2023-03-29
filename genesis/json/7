@@ -1,0 +1,43 @@
+{
+  "description" : "YG-01-0007 description",
+  "attributes" : [
+    {
+      "value" : "Ava",
+      "trait_type" : "description"
+    },
+    {
+      "value" : "ETH stone",
+      "trait_type" : "skin"
+    },
+    {
+      "value" : "White",
+      "trait_type" : "crest"
+    },
+    {
+      "value" : "Basis eyes",
+      "trait_type" : "mouth shape"
+    },
+    {
+      "value" : "Open",
+      "trait_type" : "hair"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Pigtails"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Orange"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Light blue"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Festival"
+    }
+  ],
+  "name" : "YG-01-0007",
+  "image" : "yay_genesis_0007.png"
+}

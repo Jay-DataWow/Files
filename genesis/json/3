@@ -1,0 +1,51 @@
+{
+  "name" : "YG-01-0003",
+  "image" : "yay_genesis_0003.png",
+  "description" : "YG-01-0003 description",
+  "attributes" : [
+    {
+      "value" : "Jacob",
+      "trait_type" : "description"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "ETH stone"
+    },
+    {
+      "value" : "Black",
+      "trait_type" : "crest"
+    },
+    {
+      "value" : "Traditional crests",
+      "trait_type" : "eye shape"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Basis eyes"
+    },
+    {
+      "trait_type" : "hair",
+      "value" : "Smile"
+    },
+    {
+      "value" : "Center long",
+      "trait_type" : "hair color"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Red"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Blue"
+    },
+    {
+      "trait_type" : "cloth",
+      "value" : "God"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Jacket"
+    }
+  ]
+}

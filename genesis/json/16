@@ -1,0 +1,43 @@
+{
+  "image" : "yay_genesis_0016.png",
+  "description" : "YG-01-0016 description",
+  "name" : "YG-01-0016",
+  "attributes" : [
+    {
+      "value" : "Penelope",
+      "trait_type" : "description"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "Prayer"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "White"
+    },
+    {
+      "value" : "Drooping eyes",
+      "trait_type" : "mouth shape"
+    },
+    {
+      "value" : "Serious",
+      "trait_type" : "hair"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Long hair"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Light blue"
+    },
+    {
+      "value" : "Orange",
+      "trait_type" : "item"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Knit"
+    }
+  ]
+}

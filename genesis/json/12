@@ -1,0 +1,47 @@
+{
+  "image" : "yay_genesis_0012.png",
+  "name" : "YG-01-0012",
+  "description" : "YG-01-0012 description",
+  "attributes" : [
+    {
+      "value" : "Levi",
+      "trait_type" : "description"
+    },
+    {
+      "value" : "ETH stone",
+      "trait_type" : "skin"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "Black"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Drooping eyes"
+    },
+    {
+      "value" : "Smile",
+      "trait_type" : "hair"
+    },
+    {
+      "value" : "Long hair",
+      "trait_type" : "hair color"
+    },
+    {
+      "value" : "Purple",
+      "trait_type" : "eye color"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Blue"
+    },
+    {
+      "trait_type" : "cloth",
+      "value" : "God"
+    },
+    {
+      "value" : "Knight",
+      "trait_type" : "background"
+    }
+  ]
+}

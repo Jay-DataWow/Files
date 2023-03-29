@@ -1,0 +1,43 @@
+{
+  "description" : "YG-01-0005 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Oliver"
+    },
+    {
+      "trait_type" : "skin",
+      "value" : "ETH stone"
+    },
+    {
+      "value" : "White",
+      "trait_type" : "crest"
+    },
+    {
+      "value" : "Round eyes",
+      "trait_type" : "mouth shape"
+    },
+    {
+      "value" : "Open",
+      "trait_type" : "hair"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Medium hair"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Red"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Green"
+    },
+    {
+      "value" : "Jacket",
+      "trait_type" : "background"
+    }
+  ],
+  "name" : "YG-01-0005",
+  "image" : "yay_genesis_0005.png"
+}

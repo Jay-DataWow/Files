@@ -1,0 +1,47 @@
+{
+  "description" : "YG-01-0008 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Mason"
+    },
+    {
+      "value" : "ETH stone",
+      "trait_type" : "skin"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "White"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Round eyes"
+    },
+    {
+      "value" : "Open",
+      "trait_type" : "hair"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Carl"
+    },
+    {
+      "value" : "Green",
+      "trait_type" : "eye color"
+    },
+    {
+      "value" : "Purple",
+      "trait_type" : "item"
+    },
+    {
+      "trait_type" : "cloth",
+      "value" : "Training"
+    },
+    {
+      "trait_type" : "background",
+      "value" : "Church"
+    }
+  ],
+  "name" : "YG-01-0008",
+  "image" : "yay_genesis_0008.png"
+}

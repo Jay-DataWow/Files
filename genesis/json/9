@@ -1,0 +1,47 @@
+{
+  "image" : "yay_genesis_0009.png",
+  "name" : "YG-01-0009",
+  "description" : "YG-01-0009 description",
+  "attributes" : [
+    {
+      "value" : "Nathan",
+      "trait_type" : "description"
+    },
+    {
+      "value" : "Prayer",
+      "trait_type" : "skin"
+    },
+    {
+      "value" : "Black",
+      "trait_type" : "crest"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Basis eyes"
+    },
+    {
+      "trait_type" : "hair",
+      "value" : "Smile"
+    },
+    {
+      "trait_type" : "hair color",
+      "value" : "Carl"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Purple"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Purple"
+    },
+    {
+      "trait_type" : "cloth",
+      "value" : "Universe"
+    },
+    {
+      "value" : "Shaman",
+      "trait_type" : "background"
+    }
+  ]
+}

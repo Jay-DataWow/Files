@@ -1,0 +1,43 @@
+{
+  "name" : "YG-01-0014",
+  "image" : "yay_genesis_0014.png",
+  "description" : "YG-01-0014 description",
+  "attributes" : [
+    {
+      "trait_type" : "description",
+      "value" : "Victoria"
+    },
+    {
+      "value" : "ETH stone",
+      "trait_type" : "skin"
+    },
+    {
+      "trait_type" : "crest",
+      "value" : "Black"
+    },
+    {
+      "trait_type" : "mouth shape",
+      "value" : "Sharp eyes"
+    },
+    {
+      "value" : "Open",
+      "trait_type" : "hair"
+    },
+    {
+      "value" : "Carl",
+      "trait_type" : "hair color"
+    },
+    {
+      "trait_type" : "eye color",
+      "value" : "Light blue"
+    },
+    {
+      "trait_type" : "item",
+      "value" : "Yellow green"
+    },
+    {
+      "value" : "Jacket",
+      "trait_type" : "background"
+    }
+  ]
+}
